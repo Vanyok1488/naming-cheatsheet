@@ -34,7 +34,7 @@ Use English language when naming your variables and functions.
 const primerNombre = 'Gustavo'
 const amigos = ['Kate', 'John']
 
-/* Good */
+/* Good *//
 const firstName = 'Gustavo'
 const friends = ['Kate', 'John']
 ```
